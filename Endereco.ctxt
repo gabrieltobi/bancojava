@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=rua
+comment0.target=void\ setRua(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getRua()
+comment2.params=numero
+comment2.target=void\ setNumero(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNumero()
+comment4.params=complemento
+comment4.target=void\ setComplemento(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getComplemento()
+comment6.params=bairro
+comment6.target=void\ setBairro(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getBairro()
+comment8.params=cep
+comment8.target=void\ setCep(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getCep()
+numComments=10

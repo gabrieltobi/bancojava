@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ Menu()
+comment1.params=
+comment1.target=boolean\ criarCliente()
+comment2.params=nome\ cpf\ endereco
+comment2.target=boolean\ gravarCliente(java.lang.String,\ java.lang.String,\ Endereco)
+comment3.params=
+comment3.target=boolean\ criarContaCorrente()
+comment4.params=numero\ saldo\ dono
+comment4.target=boolean\ gravarContaCorrente(int,\ double,\ Cliente)
+comment5.params=
+comment5.target=void\ consultarClientes()
+comment6.params=
+comment6.target=void\ depositar()
+comment7.params=
+comment7.target=void\ sacar()
+comment8.params=
+comment8.target=void\ exibirContas()
+comment9.params=
+comment9.target=void\ Iniciar()
+numComments=10
