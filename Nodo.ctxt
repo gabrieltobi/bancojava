@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nodo\ getProximo()
+comment1.params=
+comment1.target=ContaCorrente\ getInfo()
+comment2.params=proximo
+comment2.target=void\ setProximo(Nodo)
+comment3.params=conta
+comment3.target=void\ setInfo(ContaCorrente)
+numComments=4

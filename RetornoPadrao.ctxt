@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RetornoPadrao()
+comment1.params=mensagem\ erro
+comment1.target=RetornoPadrao(java.lang.String,\ boolean)
+numComments=2

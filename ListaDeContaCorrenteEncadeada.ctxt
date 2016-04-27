@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ estaVazia()
+comment1.params=posicao
+comment1.target=boolean\ existePosicao(int)
+comment10.params=numeroConta
+comment10.target=boolean\ existeConta(int)
+comment11.params=
+comment11.target=int\ size()
+comment2.params=posicao
+comment2.target=Nodo\ get(int)
+comment3.params=numeroConta
+comment3.target=ContaCorrente\ getConta(int)
+comment4.params=
+comment4.target=int[]\ getNumerosDasContas()
+comment5.params=
+comment5.target=int\ getQuantidadeDeContas()
+comment6.params=
+comment6.target=Nodo\ getUltimo()
+comment7.params=conta
+comment7.target=RetornoPadrao\ incluirConta(ContaCorrente)
+comment8.params=posicao\ conta
+comment8.target=RetornoPadrao\ incluirConta(int,\ ContaCorrente)
+comment9.params=conta
+comment9.target=RetornoPadrao\ incluirContaInicio(ContaCorrente)
+numComments=12
